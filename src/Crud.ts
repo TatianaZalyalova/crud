@@ -3,6 +3,7 @@ export interface IData {
     task: string;
     date?: string;
     tags?: string[];
+    status?: string;
   };
 }
 
