@@ -41,5 +41,8 @@ module.exports = {
     "no-new": "off",
     "no-use-before-define": "off",
     "prefer-template": "off",
+    "arrow-body-style": "off",
+    "no-restricted-syntax": "off",
+    "prefer-const": "off",
   },
 };
